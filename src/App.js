@@ -58,7 +58,7 @@ function App() {
           <Route exact path="/"> */}
           {/* </Route>
         </Switch> */}
-    {/* <About/> */}
+    <About/>
     </div>
     {/* </Router> */}
     </> 
